@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Program untuk membaca dan menampilkan sebuah angka
 int main () {
     int angka;
 
