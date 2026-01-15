@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Program Input dan Output Sederhana
+// cek koneksi git github
 int main () {
     int angka;
 
