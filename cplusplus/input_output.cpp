@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+// Program Input dan Output Sederhana
 int main () {
     int angka;
 
