@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// cek koneksi git github
 int main () {
     int angka;
 
