@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Program untuk membaca dan menampilkan sebuah angka
+// Program sederhana untuk demonstrasi input dan output di C++
 int main () {
     int angka;
 
